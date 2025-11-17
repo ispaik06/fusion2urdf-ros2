@@ -1,4 +1,4 @@
-This repo is forked from forked from [dheena2k2/fusion2urdf-ros2](https://github.com/dheena2k2/fusion2urdf-ros2)
+This repo is forked from [dheena2k2/fusion2urdf-ros2](https://github.com/dheena2k2/fusion2urdf-ros2)
 
 `utils.py` is modified because the latest version of python is used by Fusion360 and this is not fit in the original fusion2urdf-ros2 exporter.
 
