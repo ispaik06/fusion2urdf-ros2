@@ -1,3 +1,8 @@
+This repo is forked from forked from [dheena2k2/fusion2urdf-ros2](https://github.com/dheena2k2/fusion2urdf-ros2)
+
+`utils.py` is modified because the latest version of python is used by Fusion360 and this is not fit in the original fusion2urdf-ros2 exporter.
+
+---
 # fusion2urdf ROS2
 
 This repository is initially forked from [syuntoku14/fusion2urdf](https://github.com/syuntoku14/fusion2urdf) and edited to export description package suited for ROS2 ament_python type build. Check out [syuntoku14/fusion2urdf](https://github.com/syuntoku14/fusion2urdf) for converting fusion360 model to robot description package of ROS1.
